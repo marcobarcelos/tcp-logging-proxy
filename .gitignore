@@ -1,4 +1,5 @@
 output
 .project
 .settings
+node_modules/
 

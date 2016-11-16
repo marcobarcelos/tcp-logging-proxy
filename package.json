@@ -11,7 +11,9 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
   "devDependencies": {},
   "bin": {
     "tcp-logging-proxy": "tcp-logging-proxy.js"
